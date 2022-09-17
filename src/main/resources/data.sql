@@ -1,0 +1,1 @@
+INSERT INTO Product (name) VALUES ('iPhone'), ('MacBook');
